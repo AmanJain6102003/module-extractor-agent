@@ -1,0 +1,10 @@
+[
+  {
+    "module": "Getting Started",
+    "Description": "Includes basic account setup and site configuration steps drawn from documentation sections about setup.",
+    "Submodules": {
+      "Create an account": "Steps to create an account and initial setup drawn from docs.",
+      "Set up site": "Configuration options for site title, theme, and settings taken from documentation." 
+    }
+  }
+]

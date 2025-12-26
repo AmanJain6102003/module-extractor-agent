@@ -1,0 +1,10 @@
+[
+  {
+    "module": "Billing & Subscriptions",
+    "Description": "Documentation sections describing billing cycles, subscription plans, and invoices.",
+    "Submodules": {
+      "Create subscription": "Instructions and API references to create subscriptions based on provider docs.",
+      "Invoices": "Details about invoice generation and delivery from source content."
+    }
+  }
+]

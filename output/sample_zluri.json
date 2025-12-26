@@ -1,0 +1,9 @@
+[
+  {
+    "module": "Integrations",
+    "Description": "Sections describing available integrations and connectors sourced from documentation.",
+    "Submodules": {
+      "Add integration": "Steps to add and configure third-party integrations as described in the docs."
+    }
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "module": "User Management",
+    "Description": "Documentation-driven description about user accounts, permissions, and roles.",
+    "Submodules": {
+      "Invite users": "Process to invite users and assign roles based on documentation sections."
+    }
+  }
+]
